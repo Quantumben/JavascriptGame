@@ -1,0 +1,16 @@
+﻿
+.LudiScore{
+border : solid 1px gray;
+}
+
+
+@font-face {
+Font-family:'Lobster';
+Font-style: normal;
+Font-weight: 400;
+src: url('fonts/lobster/Lobster-Regular.eot');
+src: local('Lobster Regular'), local('Lobster-Regular'),
+url('fonts/lobster/lobster-regular-webfont.woff2') format('woff2'),
+url('fonts/lobster/lobster-regular-webfont.woff') format('woff'),
+url('fonts/lobster/Lobster-Regular.ttf') format('truetype');
+}
